@@ -1,4 +1,4 @@
-# Get in touch!
+# Contact details
 
 * [Home](https://acontina.github.io/Research)
 * [Publications](https://acontina.github.io/Publications)
@@ -6,12 +6,12 @@
 * [Contact](https://acontina.github.io/contact)
 
 ## Andrea Contina, PhD
-University of Texas – Austin
+### University of Texas – Austin
 
 E-mail: acontina_at_utexas.edu
 
 ### *Current Lab*
-[Keitt Lab:](https://sites.cns.utexas.edu/keittlab) Landscapes, Conservation and Global Change.
+* [Keitt Lab:](https://sites.cns.utexas.edu/keittlab) Landscapes, Conservation and Global Change.
 
 ### *Former Labs*
 * [Wunder Lab:](https://mikewunder.wordpress.com/lab-members-3) Animal Behavior and Population Dynamics.
