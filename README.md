@@ -6,15 +6,14 @@
 * [Contact](https://acontina.github.io/contact)
 
 ## Andrea Contina, PhD
-
-### University of Texas – Austin
-### E-mail: acontina_at_utexas.edu
+University of Texas – Austin
+E-mail: acontina_at_utexas.edu
 
 ### *Current Lab*
-[Keitt Lab:](https://sites.cns.utexas.edu/keittlab) Landscapes, conservation and global change.
+[Keitt Lab:](https://sites.cns.utexas.edu/keittlab) Landscapes, Conservation and Global Change.
 
 ### *Former Labs*
-* [Wunder Lab:](https://mikewunder.wordpress.com/lab-members-3) Behavior and dynamics of migratory animal populations.
+* [Wunder Lab:](https://mikewunder.wordpress.com/lab-members-3) Behavior and Population Dynamics.
 * [Kelly Lab:](http://www.animalmigration.org/bunting/index.htm) Animal Migration.
 * [Bridge Lab:](http://thebridgelab.oucreate.com/research-2) Avian Movement & Tracking Technologies.
 
