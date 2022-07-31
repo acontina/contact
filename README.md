@@ -1,9 +1,9 @@
 # Contact
 
 * [Home](https://acontina.github.io/Research)
-* [Teaching](https://acontina.github.io/Pubs)
+* [Publications](https://acontina.github.io/Pubs)
 * [Teaching](https://acontina.github.io/Teaching)
-* [Contact](https://acontina.github.io/Research)
+* [Contact](https://acontina.github.io/contact)
 
 ## Andrea Contina, PhD
 
